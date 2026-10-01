@@ -1,0 +1,13 @@
+date,region,product,units,revenue,customer_rating
+2026-01-05,North,Alpha,18,2160,4.4
+2026-01-08,South,Beta,12,1620,4.1
+2026-01-12,East,Alpha,24,3000,4.7
+2026-01-15,West,Gamma,9,1530,3.8
+2026-02-03,North,Beta,21,2835,4.5
+2026-02-09,South,Alpha,30,3900,4.8
+2026-02-17,East,Gamma,14,2380,4.0
+2026-02-20,West,Alpha,27,3375,4.6
+2026-03-02,North,Gamma,11,1870,4.2
+2026-03-06,South,Beta,19,2565,4.3
+2026-03-14,East,Alpha,33,4125,4.9
+2026-03-19,West,Beta,16,2160,4.0
